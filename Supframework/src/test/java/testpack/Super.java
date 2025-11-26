@@ -7,6 +7,7 @@ public class Super {
 	public void sup()
 	{
 		System.out.println("done");
+		System.out.println("HI");
 	}
 
 }
