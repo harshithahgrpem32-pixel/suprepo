@@ -2,9 +2,9 @@ package testpack;
 
 import org.testng.annotations.Test;
 
-public class Super {
+public class SuperTest {
 	@Test
-	public void sup()
+	public void supTest()
 	{
 		System.out.println("done");
 		System.out.println("HI");
